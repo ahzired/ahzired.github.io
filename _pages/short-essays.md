@@ -1,7 +1,10 @@
 ---
 title: "Short Essays"
-layout: single
+layout: collection
 permalink: /short-essays/
+collection: essays
+entries_layout: grid
+classes: wide
 author_profile: true
 ---
 

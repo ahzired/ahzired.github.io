@@ -1,0 +1,18 @@
+current directory: /home/brian/ahzired.github.io/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby.ruby3.3 extconf.rb
+creating Makefile
+
+current directory: /home/brian/ahzired.github.io/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240803-18746-x96nep sitelibdir\=./.gem.20240803-18746-x96nep clean
+
+current directory: /home/brian/ahzired.github.io/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240803-18746-x96nep sitelibdir\=./.gem.20240803-18746-x96nep
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/brian/ahzired.github.io/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240803-18746-x96nep sitelibdir\=./.gem.20240803-18746-x96nep install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240803-18746-x96nep/racc
+
+current directory: /home/brian/ahzired.github.io/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240803-18746-x96nep sitelibdir\=./.gem.20240803-18746-x96nep clean

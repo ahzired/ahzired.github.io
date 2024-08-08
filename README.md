@@ -1,3 +1,9 @@
+# Personal Notes
+
+I have a very poor memory regarding commands in the terminal, so I'll write them down as I use them:
+- For first build, make sure run run ```bundle install```
+- To preview website, run ```bundle exec jekyll serve``` (adding ```--drafts``` switch will include drafts in preview site)
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

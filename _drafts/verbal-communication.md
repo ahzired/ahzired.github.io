@@ -8,7 +8,6 @@ tags:
   - readability
   - standard
 classes: wide
-
 ---
 
 I don't consider myself a particularly eloquent person. I struggle to exactly word what I want to say, often conveying a different message than I meant to. For me, trying too hard to word something properly usually results in me rephrasing my thoughts until I eventually give up, or lose track of the original point. This has been an issue for me for as long as I can remember (which, to be honest, isn't very far back due to the Great Shroom Incident of '20). I notice it most when I'm trying to have serious conversations with my girlfriend, or when I'm trying to explain a problem I'm having at work. I'm much more comfortable speaking when I have sufficient time to properly word what I want to say. I think this is why I prefer communicating via text as often as possible. When I write, I can re-order my thoughts however I like. If I look back on a sentence and don't like how it's worded, I can rephrase it at my own leisure.
